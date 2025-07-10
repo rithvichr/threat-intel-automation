@@ -44,21 +44,17 @@ echo 'VT_API_KEY = "your_virustotal_key_here"' > config.py
 python main.py
 
 ---
-##API Key Setup
-To get your API key:
+## API Key Setup
+-To get your API key:
 
 Sign up at https://www.virustotal.com
 
-Go to your profile → API key
+-Go to your profile → API key
 
-Copy your key
+-Copy your key
 
-Create a file named config.py:
+-Create a file named config.py:
 
-python
-Copy
-Edit
-VT_API_KEY = "your_api_key_here"
 
 
 ---
